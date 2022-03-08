@@ -2,7 +2,7 @@
 
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 
-#### **Este projeto contempla o curso prático de Desenvolvimento Web Completo - Jamilton Damasceno. Para visualização do site, acesse:**  [City News](https://joaolucasp.github.io/Practicing-Web-Development-City-News/)
+#### **Este projeto contempla o curso prático de Desenvolvimento Web Completo - Jamilton Damasceno. Para visualização do site, acesse:**  [Chalé Hotel](https://joaolucasp.github.io/Practicing-Web-Development-Chale-Hotel/)
 
 Conhecimentos utilizados
 1. HTML5 básico
